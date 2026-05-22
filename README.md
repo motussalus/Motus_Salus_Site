@@ -18,3 +18,5 @@ A clean, static multi-page website for Motus Salus.
 Upload all files and folders to the root of a public GitHub repository. Then go to:
 
 Settings → Pages → Deploy from a branch → main → /root
+
+Includes about.html
