@@ -486,3 +486,28 @@ p {
     width: min(100%, 300px);
   }
 }
+
+.rural-intro {
+  align-items: start;
+}
+
+.rural-intro .project-copy p + p {
+  margin-top: 16px;
+}
+
+.rural-lenses {
+  margin-top: 44px;
+  padding-top: 30px;
+  border-top: 1px solid var(--line);
+}
+
+.rural-lenses > p {
+  max-width: 680px;
+  color: var(--muted);
+}
+
+.rural-lenses .topic-card h3 {
+  margin: 0 0 10px;
+  font-size: 1rem;
+  font-weight: 550;
+}
