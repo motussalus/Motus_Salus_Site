@@ -491,6 +491,11 @@ p {
   align-items: start;
 }
 
+.rural-intro .project-figure img {
+  width: 50%;
+  margin-inline: auto;
+}
+
 .rural-intro .project-copy p + p {
   margin-top: 16px;
 }
@@ -511,3 +516,4 @@ p {
   font-size: 1rem;
   font-weight: 550;
 }
+
